@@ -36,57 +36,57 @@ Trae tu notebook con Windows, Linux o Mac OSx y sobre todo muchas ganas de apren
 
 ### Agenda
 
-```javascript
-{
-  "modules": [
+
     {
-      "order": "1",
-      "name": "intro",
-      "description": "Introduccion a node.js, non-blocking IO y el event loop "
-    },
-    {
-      "order": "2",
-      "name": "eventos",
-      "description": "Entendiendo la naturaleza de los eventos en node: escuchar, crear y disparar"
-    },
-    {
-      "order": "3",
-      "name": "streams",
-      "description": "Entendiendo los streams que son parte integral de node y lo que hace que el real-time sea posible"
-    },
-    {
-      "order": "4",
-      "name": "modulos",
-      "description": "Como compartir y reusar codigo propio y de terceros"
-    },
-    {
-      "order": "5",
-      "name": "debugging & testing",
-      "description": "Como debugear y testear codigo en node"
-    },
-    {
-      "order": "6",
-      "name": "express",
-      "description": "Usando el framework web express para construir aplicaciones Web MVC"
-    },
-    {
-      "order": "7",
-      "name": "socket.io",
-      "description": "Usando socket.io para agregar comunicacion real-time"
-    },
-    {
-      "order": "8",
-      "name": "persistencia",
-      "description": "Usando mongodb para implementar persistencia de datos"
-    },
-    {
-      "order": "9",
-      "name": "deployment",
-      "description": "Desplegando aplicaciones node.js a la nube"
+      "modules": [
+        {
+          "order": "1",
+          "name": "intro",
+          "description": "Introduccion a node.js, non-blocking IO y el event loop "
+        },
+        {
+          "order": "2",
+          "name": "eventos",
+          "description": "Entendiendo la naturaleza de los eventos en node: escuchar, crear y disparar"
+        },
+        {
+          "order": "3",
+          "name": "streams",
+          "description": "Entendiendo los streams que son parte integral de node y lo que hace que el real-time sea posible"
+        },
+        {
+          "order": "4",
+          "name": "modulos",
+          "description": "Como compartir y reusar codigo propio y de terceros"
+        },
+        {
+          "order": "5",
+          "name": "debugging & testing",
+          "description": "Como debugear y testear codigo en node"
+        },
+        {
+          "order": "6",
+          "name": "express",
+          "description": "Usando el framework web express para construir aplicaciones Web MVC"
+        },
+        {
+          "order": "7",
+          "name": "socket.io",
+          "description": "Usando socket.io para agregar comunicacion real-time"
+        },
+        {
+          "order": "8",
+          "name": "persistencia",
+          "description": "Usando mongodb para implementar persistencia de datos"
+        },
+        {
+          "order": "9",
+          "name": "deployment",
+          "description": "Desplegando aplicaciones node.js a la nube"
+        }
+      ]
     }
-  ]
-}
-```
+
 
 ---
 
