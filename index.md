@@ -110,8 +110,8 @@ José drives a blog in [english](http://joseoncode.com), another [in spanish](ht
 Matias is a software architect, craftsman and technologist. He spent the last 12 years working on numerous software projects with companies like Microsoft Corp. He’s a published author on cloud computing and identity management. He’s a founder of identity management startup Auth10, teaches cloud computing on the University and a frequent speaker at national and international events. 
 Matias experience with node started a year ago while working on a collaborative realtime markdown editor http://markdownr.cloudapp.net. He then started a community driven blog around node and Windows to share knowledge with the community and earlier this year he was a speaker on the first latin american [jsconf](http://jsconf.com.ar/).
 
-Github: https://github.com/woloski  
-Blog: http://woloski.com  
-Twitter: http://twitter.com/woloski  
+Github: [https://github.com/woloski](https://github.com/woloski)  
+Blog: [http://woloski.com](http://woloski.com)  
+Twitter: [http://twitter.com/woloski](http://twitter.com/woloski)  
 
 
