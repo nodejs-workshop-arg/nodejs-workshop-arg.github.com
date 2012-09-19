@@ -88,6 +88,7 @@ Los asistentes recibiran una copia gratis del nuevo libro de Guillermo Rauch, [S
 <a href="http://smashingnode.com/"><img src="http://markdownr.blob.core.windows.net/images/385175533.png" width="150" /></a>
 
 ---
+
 ## ¿Quiénes dictan el workshop?
 
 ### Jose Romaniello
