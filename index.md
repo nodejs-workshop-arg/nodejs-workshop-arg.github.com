@@ -109,7 +109,7 @@ Twitter: [http://twitter.com/woloski](http://twitter.com/woloski)
 
 ### Para conocer el interes sobre este workshop, contestanos estas dos preguntas
 
-<iframe frameborder="0" width="100%" height="800" scrolling="no" style="overflow-y: hidden; border:0;" allowtransparency="true" src="http://2741599.polldaddy.com/s/node-js-buenos-aires-workshop?iframe=1"><a href="http://2741599.polldaddy.com/s/node-js-buenos-aires-workshop">View Survey</a></iframe>
+<iframe frameborder="0" width="100%" height="550" scrolling="no" style="overflow-y: hidden; border:0;" allowtransparency="true" src="http://2741599.polldaddy.com/s/node-js-buenos-aires-workshop?iframe=1"><a href="http://2741599.polldaddy.com/s/node-js-buenos-aires-workshop">View Survey</a></iframe>
 
 
 <br/>
