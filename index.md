@@ -2,16 +2,18 @@
 layout: default
 ---
 
-Queres aprender a programar aplicaciones web realtime que escalen? Escuchaste hablar de node.js y te gustaria aprender sobre esta nueva plataforma? Te gusta JavaScript? En este workshop de un día entero vas a aprender y adquirir las habilidades necesarias para construir aplicaciones realtime!  
+Queres aprender a programar aplicaciones web realtime que escalen? Escuchaste hablar de node.js y te gustaria aprender sobre esta nueva plataforma? Te gusta JavaScript? En este workshop de un día entero vas a aprender y adquirir las habilidades necesarias para construir aplicaciones realtime!
+
+
 El formato del workshop es teórico-práctico: cada módulo tiene una introducción al tema y una serie de desafíos en donde nos ensuciaremos las manos para poner en práctica lo aprendido.
 
 * ¿Cuándo? **19 de Octubre** (a confirmar)
 * ¿Dónde? **MUG Buenos Aires** [Rivadavia 1479 - Piso 1](https://maps.google.com/?ll=-34.60891,-58.387444&spn=0.002245,0.00327&t=h&z=19)
 * ¿Cuánto dura? **7 horas + 1 de almuerzo (10 to 6pm)**
 * ¿Cuánto cuesta?
-    * Regular: AR$ 1,000 
-    * Regular (antes del 1ero de Octubre): AR$ 700 (30% descuento)
-    * Estudiantes y socios del MUG: AR$ 500
+    +  Regular: AR$ 1,000
+    +  Regular (antes del 1ero de Octubre): AR$ 700 (30% descuento)
+    +  Estudiantes y socios del MUG: AR$ 500
 
 _incluye almuerzo_
 
