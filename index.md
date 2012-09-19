@@ -107,24 +107,11 @@ Github: [https://github.com/woloski](https://github.com/woloski)
 Blog: [http://woloski.com](http://woloski.com)  
 Twitter: [http://twitter.com/woloski](http://twitter.com/woloski)  
 
-<a name="survey"></a>
+### Para conocer el interes sobre este workshop, contestanos estas dos preguntas
 
-### Para saber si seguimos adelante con esta idea, contesta la siguiente encuesta (son dos preguntas):
+<iframe frameborder="0" width="100%" height="800" scrolling="no" style="overflow-y: hidden; border:0;" allowtransparency="true" src="http://2741599.polldaddy.com/s/node-js-buenos-aires-workshop?iframe=1"><a href="http://2741599.polldaddy.com/s/node-js-buenos-aires-workshop">View Survey</a></iframe>
 
-<script type="text/javascript" src="http://i0.poll.fm/survey.js" charset="UTF-8"></script>
-<noscript><a href="http://auth10.polldaddy.com/s/node-workshop">Take Our Survey!</a></noscript>
-<script type="text/javascript">
-  polldaddy.add( {
-    type: 'iframe',
-    auto: true,
-    //width: "600px",
-    domain: 'auth10.polldaddy.com/s/',
-    id: 'node-workshop'
-  } );
-</script>
 
 <br/>
 
 ### Gracias!!
-
-
