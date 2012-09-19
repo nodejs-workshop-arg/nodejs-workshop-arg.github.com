@@ -17,15 +17,6 @@ El formato del workshop es teórico-práctico: cada módulo tiene una introducci
 
 _incluye almuerzo_
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6532206.js">
-</script>
-
-<noscript>
-  <a href="http://polldaddy.com/poll/6532206/">Te gustaria atender a este workshop?</a>
-</noscript>
-
-<br />
-
 ### ¿A quiénes esta dirigido?
 
 Este workshop esta dirigido a desarrolladores de aplicaciones web, devops y estudiantes afines que esten actualmente trabajando con php, ruby, .net, python con los frameworks Rails, Asp.Net, Django, etc.
@@ -115,5 +106,23 @@ Matias experience with node started a year ago while working on a collaborative 
 Github: [https://github.com/woloski](https://github.com/woloski)  
 Blog: [http://woloski.com](http://woloski.com)  
 Twitter: [http://twitter.com/woloski](http://twitter.com/woloski)  
+
+<a name="survey"></a>
+
+### Para saber si seguimos adelante con esta idea, contesta la siguiente encuesta (son dos preguntas):
+
+<script type="text/javascript" src="http://i0.poll.fm/survey.js" charset="UTF-8"></script>
+<noscript><a href="http://auth10.polldaddy.com/s/node-workshop">Take Our Survey!</a></noscript>
+<script type="text/javascript">
+  polldaddy.add( {
+    type: 'iframe',
+    auto: true,
+    //width: "600px",
+    domain: 'auth10.polldaddy.com/s/',
+    id: 'node-workshop'
+  } );
+</script>
+
+### Gracias!!
 
 
