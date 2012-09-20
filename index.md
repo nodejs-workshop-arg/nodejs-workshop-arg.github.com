@@ -2,18 +2,20 @@
 layout: default
 ---
 
-Queres aprender a programar aplicaciones web realtime que escalen? Escuchaste hablar de node.js y te gustaria aprender sobre esta nueva plataforma? Te gusta JavaScript? En este workshop de un día entero vas a aprender y adquirir las habilidades necesarias para construir aplicaciones realtime!
++  ¿Te interesaría aprender a programar aplicaciones web realtime? 
++  ¿Escuchaste hablar de node.js pero no tuviste el tiempo suficiente como para ponerte al día? 
++  ¿Te gusta javascript o algún otro lenguaje dinámico?
++  ¿Te gusta programar pero estas cansado de renegar con Java o .Net?   
 
+Entonces este workshop es para vos. En este taller, de un día entero, vas a aprender a desarrollar en esta tecnología aplicaciones **revolucionarias**!
 
-El formato del workshop es teórico-práctico: cada módulo tiene una introducción al tema y una serie de desafíos en donde nos ensuciaremos las manos para poner en práctica lo aprendido.
+Te guiaremos a través de una serie de módulos y ejercicios desde lo básico hasta la construcción de una aplicación totalmente funcional.
+
+El formato del workshop es teórico-práctico: cada módulo tiene una introducción teórica y una serie de desafíos en donde nos ensuciaremos las manos para poner en práctica lo aprendido.
 
 * ¿Cuándo? **19 de Octubre** (a confirmar)
 * ¿Dónde? **MUG Buenos Aires** [Rivadavia 1479 - Piso 1](https://maps.google.com/?ll=-34.60891,-58.387444&spn=0.002245,0.00327&t=h&z=19)
-* ¿Cuánto dura? **7 horas + 1 de almuerzo (10 to 6pm)**
-* ¿Cuánto cuesta?
-    +  Regular: AR$ 1,000
-    +  Regular (antes del 1ero de Octubre): AR$ 700 (30% descuento)
-    +  Estudiantes y socios del MUG: AR$ 500
+* ¿Cuánto dura? **7 horas + 1 de almuerzo (de 10 a 18)**
 
 _incluye almuerzo_
 
@@ -88,6 +90,12 @@ Los asistentes recibiran una copia gratis del nuevo libro de Guillermo Rauch, [S
 <a href="http://smashingnode.com/"><img src="http://markdownr.blob.core.windows.net/images/385175533.png" width="150" /></a>
 
 ---
+
+## Precio de la inscripción
+
++  Regular: AR$ 1,000
++  Regular (antes del 1ero de Octubre): AR$ 700 (30% descuento)
++  Estudiantes y socios del MUG: AR$ 500
 
 ## ¿Quiénes dictan el workshop?
 
