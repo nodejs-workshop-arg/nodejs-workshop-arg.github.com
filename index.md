@@ -91,15 +91,15 @@ Los asistentes recibiran una copia gratis del nuevo libro de Guillermo Rauch, [S
 
 ---
 
-## Precio de la inscripción
+### Precio de la inscripción
 
 +  Regular: AR$ 1,000
 +  Regular (antes del 1ero de Octubre): AR$ 700 (30% descuento)
 +  Estudiantes y socios del MUG: AR$ 500
 
-## ¿Quiénes dictan el workshop?
+### ¿Quiénes dictan el workshop?
 
-### Jose Romaniello
+#### Jose Romaniello
 
 A software craftsman with ten years of experience developing applications with Microsoft tools and platforms. Agile software developer with strong skills in Test Driven Development and agile methodologies. Member and creator of various open source projects. 
 
@@ -107,7 +107,7 @@ José has been working with node.js for the last two years developing a Backend 
 
 José drives a blog in [english](http://joseoncode.com), another [in spanish](http://es.joseoncode.com) and does a [lot of opensource](https://github.com/jfromaniello).
 
-### Matias Woloski
+#### Matias Woloski
 
 Matias is a software architect, craftsman and technologist. He spent the last 12 years working on numerous software projects with companies like Microsoft Corp. He’s a published author on cloud computing and identity management. He’s a founder of identity management startup Auth10, teaches cloud computing on the University and a frequent speaker at national and international events. 
 Matias experience with node started a year ago while working on a collaborative realtime markdown editor http://markdownr.cloudapp.net. He then started a community driven blog around node and Windows to share knowledge with the community and earlier this year he was a speaker on the first latin american [jsconf](http://jsconf.com.ar/).
@@ -115,6 +115,8 @@ Matias experience with node started a year ago while working on a collaborative 
 Github: [https://github.com/woloski](https://github.com/woloski)  
 Blog: [http://woloski.com](http://woloski.com)  
 Twitter: [http://twitter.com/woloski](http://twitter.com/woloski)  
+
+---
 
 ### Para conocer el interes sobre este workshop, contestanos estas dos preguntas
 
