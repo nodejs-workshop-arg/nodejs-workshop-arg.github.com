@@ -269,9 +269,7 @@ a {
 
 header h1, h4 {
   font-family: 'Press Start 2P', cursive;
-}
-
-#main_content h4 {
   color: #63F800;
   text-shadow: 0 0 5px rgba(213, 238, 32, 0.5);
 }
+
